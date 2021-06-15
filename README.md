@@ -4,7 +4,7 @@
 
 
 
-github:https://github.com/TSAI-CHEN-YU/tku-stat-608650213
+Github:https://github.com/TSAI-CHEN-YU/tku-stat-608650213
 
 **data from KEGG**  
 KEGG.ipynb
