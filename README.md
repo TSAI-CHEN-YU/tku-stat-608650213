@@ -6,15 +6,33 @@
 
 Github:https://github.com/TSAI-CHEN-YU/tku-stat-608650213
 
+### data in pubmed
 **data from KEGG**  
 KEGG.ipynb
 
 **data from MeSH Keywords**  
 PubMed data by Mesh Term Search.ipynb
 
+### preproccenig
 **data preproccenig**  
 DS_Pre.ipynb
 
-**classification**  
-DS_Classifier.ipynb
 
+### classification in different training set 
+**data ratio(1:3) & graph weight(0.3)**
+DS_Classifier(0.3)_R_3.ipynb
+
+**data ratio(1:3) & graph weight(0.1)**
+DS_Classifier(0.1)_R_3.ipynb
+
+**data ratio(1:10) & graph weight(0.3)**
+DS_Classifier(0.3)_R_10.ipynb
+
+**data ratio(1:10) & graph weight(0.1)**
+DS_Classifier(0.1)_R_10.ipynb
+
+**data ratio(1:100) & graph weight(0.3)**
+DS_Classifier(0.3)_R_100.ipynb
+
+**data ratio(1:100) & graph weight(0.1)**
+DS_Classifier(0.1)_R_100.ipynb
