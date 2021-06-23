@@ -6,10 +6,10 @@ Github:https://github.com/TSAI-CHEN-YU/tku-stat-608650213
 
 ## The program in the paper  
 ### Data in PubMed
-**data from KEGG**  
+- **data from KEGG**  
 KEGG.ipynb
 
-**data from MeSH Keywords**  
+- **data from MeSH Keywords**  
 PubMed data by Mesh Term Search.ipynb
 
 ### preproccenig
