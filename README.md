@@ -18,22 +18,22 @@ DS_Pre.ipynb
 
 
 ### classification in different training set 
-**data ratio(1:3) & graph weight(0.3)**  
+- **data ratio(1:3) & graph weight(0.3)**  
 DS_Classifier(0.3)_R_3.ipynb
 
-**data ratio(1:3) & graph weight(0.1)**  
+- **data ratio(1:3) & graph weight(0.1)**  
 DS_Classifier(0.1)_R_3.ipynb
 
-**data ratio(1:10) & graph weight(0.3)**  
+- **data ratio(1:10) & graph weight(0.3)**  
 DS_Classifier(0.3)_R_10.ipynb
 
-**data ratio(1:10) & graph weight(0.1)**  
+- **data ratio(1:10) & graph weight(0.1)**  
 DS_Classifier(0.1)_R_10.ipynb
 
-**data ratio(1:100) & graph weight(0.3)**  
+- **data ratio(1:100) & graph weight(0.3)**  
 DS_Classifier(0.3)_R_100.ipynb
 
-**data ratio(1:100) & graph weight(0.1)**  
+- **data ratio(1:100) & graph weight(0.1)**  
 DS_Classifier(0.1)_R_100.ipynb
 
 ## The result in the paper
