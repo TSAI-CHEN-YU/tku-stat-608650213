@@ -2,11 +2,10 @@
 ## Biomedical literature mining - graph kernel based on distant supervision for extracting gene-gene interactions
 ### _*109 Academic year －Tamkang University Department of Statistics  Graduation Thesis － Tsai Chen Yu_
 
-
-
 Github:https://github.com/TSAI-CHEN-YU/tku-stat-608650213
 
-### data in pubmed
+## The program in the paper  
+### Data in PubMed
 **data from KEGG**  
 KEGG.ipynb
 
@@ -36,3 +35,6 @@ DS_Classifier(0.3)_R_100.ipynb
 
 **data ratio(1:100) & graph weight(0.1)**  
 DS_Classifier(0.1)_R_100.ipynb
+
+## The result in the paper
+result.xlsx
