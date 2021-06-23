@@ -12,12 +12,12 @@ KEGG.ipynb
 - **data from MeSH Keywords**  
 PubMed data by Mesh Term Search.ipynb
 
-### preproccenig
+### Preproccenig
 - **data preproccenig**  
 DS_Pre.ipynb
 
 
-### classification in different training set 
+### Classification in different training set 
 - **data ratio(1:3) & graph weight(0.3)**  
 DS_Classifier(0.3)_R_3.ipynb
 
