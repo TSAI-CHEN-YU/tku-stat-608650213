@@ -53,4 +53,4 @@ To test the operation of the code in the paper, you can use the files in the exa
 
 ### PubMed
 
-The .txt files in the PubMed folder are obtained from the [pubTator API](https://www.ncbi.nlm.nih.gov/research/pubtator/api.html) and contain PMID, abstract titles, abstract content, and the entities included in them. The data covers the period from January 1, 1946, to January 1, 2021.
+The `PubMed/Pubtator_all_result.txt` file is obtained from the [pubTator API](https://www.ncbi.nlm.nih.gov/research/pubtator/api.html) and contain PMID, abstract titles, abstract content, and the entities included in them. The data covers the period from January 1, 1946, to January 1, 2021.
