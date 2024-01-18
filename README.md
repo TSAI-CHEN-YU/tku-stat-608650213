@@ -49,7 +49,7 @@ Github:<https://github.com/TSAI-CHEN-YU/tku-stat-608650213>
 
 ### Test example
 
-To test the operation of the code in the paper, you can use the files in the example folder. Please read the precautions in `example/readMeToTestExample.md` before using.
+To test the operation of the code in the paper, you can use the files in the example folder. Please read the precautions in `(example.zip)example/readMeToTestExample.md` before using.
 
 ### PubMed
 
