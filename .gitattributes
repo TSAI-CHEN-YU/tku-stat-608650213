@@ -1,4 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 *.zip filter=lfs diff=lfs merge=lfs -text
-./PubMed/Pubtator_all_result.txt filter=lfs diff=lfs merge=lfs -text
+PubMed/Pubtator_all_result.txt filter=lfs diff=lfs merge=lfs -text
